@@ -1,8 +1,8 @@
 # Profilo gamer di Francesco Fioccata
 
-**Età:** 18
-**Nickname:** player_fra
-**Piattaforma preferita:** PC
+**- Età:** 18
+**- Nickname:** player_fra
+**- Piattaforma preferita:** PC
 
 ## I miei giochi preferiti:
 - FIFA25
